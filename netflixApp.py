@@ -28,7 +28,7 @@ st.title("Netflix App")
 data = load_data(500)
 
 #--- LOGO ---#
-st.sidebar.image("credencial.jpg")
+st.sidebar.image("Credencial.jpg")
 st.sidebar.write("Elizabeth Galindo")
 st.sidebar.write("zS20020310")
 st.sidebar.markdown("##")
